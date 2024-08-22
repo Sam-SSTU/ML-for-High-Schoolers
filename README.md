@@ -111,6 +111,37 @@ There's a few things that a high schooler should do to deepen their general unde
 7. Delve into the math: Yes, you do need university level math skills, but if you're an extremeley strong math student, there's nothing stopping you from taking some online courses. Microsoft has a free [course](https://www.edx.org/course/essential-math-for-machine-learning-python-edition-2) that I've heard good things about, and requires just High School-level maths. This [Quora thread](https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning) also has some great resources that you should check out. [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists) is a famous name in the community too, as his Youtube videos are fantastic for learning the maths (primarily linear algebra and calculus) behind some of these more complicated concepts.
 
 
+
+# Advance up-to-date info.
+Engage in Hands-On Projects
+Contribute to Open Source: Join open-source AI projects on GitHub. Contributing to these projects will expose you to real-world codebases and collaborative development environments.
+Build Your Own AI Projects: Create end-to-end AI solutions. For example, develop a machine learning model to predict stock prices, or design a chatbot using natural language processing (NLP). Document your process and share your projects on platforms like GitHub or personal blogs.
+3. Stay Current with Cutting-Edge Research
+Read AI Research Papers: Follow AI conferences like NeurIPS, ICML, and CVPR. Start with survey papers to get an overview, then dive into specific topics that interest you. Websites like arXiv.org are great for accessing the latest research.
+Experiment with State-of-the-Art Models: Implement and experiment with cutting-edge models such as GPT, BERT, GANs, and GNNs. Many of these models have open-source implementations available, which you can use as a starting point.
+4. Cross-Disciplinary Learning
+Explore AI in Different Domains: Apply AI techniques to fields like bioinformatics, healthcare, robotics, or autonomous vehicles. This will give you a broader perspective and help you understand how AI can solve diverse real-world problems.
+Learn Data Engineering: Master tools and techniques for handling large datasets, such as SQL, Hadoop, and Apache Spark. Understanding data pipelines and data preprocessing is crucial for deploying AI models in production.
+5. Participate in Competitions
+Join Kaggle Competitions: Kaggle is an excellent platform for honing your skills. Start with simpler competitions and progressively tackle more complex challenges. The experience will help you understand how to approach real-world problems and improve your problem-solving skills.
+Engage in AI Hackathons: Participate in AI hackathons, which often focus on solving specific problems within a limited time. This will help you develop quick thinking and teamwork skills, as well as learn how to apply AI under pressure.
+6. Network and Professional Development
+Join AI Communities: Engage with AI communities online (like Reddit’s Machine Learning sub) or offline through meetups and conferences. Networking with other AI enthusiasts can provide opportunities for collaboration and learning.
+Seek Internships or Research Assistant Positions: Look for internships or research opportunities that allow you to work on AI projects. This will give you hands-on experience and help you build a strong portfolio for future academic or professional pursuits.
+
+
+
+
++hackathon
+
+
+
+
+
+
+
+
+
 ## Conclusion
 
 I wish everyone the best of luck in undertaking this learning path. I've heard too many people say Machine Learning and Artificial Intelligence is too complicated to learn as a high school student to not write this - with a well-paved learning path, it can be done by anyone. Its just that due to the field being so new and generally thought of as a graduate field of study, theres a lack of one for high school students.
